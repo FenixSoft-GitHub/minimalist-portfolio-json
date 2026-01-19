@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Gustavo Alejandro Infante Hurtado",
+    "label": "Estudiante de Ingenieria en Mantenimiento Mecánico",
+    "image": "./projects/Gustavo2.webp",
+    "email": "gustavofordllano4x4@gmail.com",
+    "phone": "+58 (414) 8741188",
+    "phone_local": "+58 (291) 7724380",
+    "birthdate": "27-09-1989",
+    "id_card": "V-19.258.386",
+    "url": "https://johndoe.com",
+    "summary": "Estudiante de Ingenieria en Mantenimiento Mecánico con experiencia en mantenimiento mecánico y servicio al cliente. Apasionado por la tecnología y el aprendizaje continuo, busco oportunidades para aplicar mis habilidades y crecer profesionalmente en el campo de la ingeniería y la tecnología.",
+    "location": {
+      "address": "Urb. las Cayenas",
+      "postalCode": "6201",
+      "city": "Maturín",
+      "countryCode": "VZ",
+      "region": "Monagas"
+    },
+    "profiles": [
+      
+    ]
+  },
+  "work": [
+    {
+      "name": "Laboratorio Estudio del Suelo Luis Mata",
+      "position": "Obrero Especializado",
+      "url": "https://company.com",
+      "startDate": "2008",
+      "endDate": "2009",
+      "summary": "Experiencia en estudios geológicos y de suelos con uso de decímetros para la área de construcción de obras civiles",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Tercerizado Schlumberger",
+      "position": "Obrero Especializado",
+      "url": "https://company.com",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Mantenimiento del sistema eléctrico para la modernización de los equipos Cortiubi, Bull dos bolas y tres bolas, Bull Bananas entre otros",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "León Max Service",
+      "position": "Gerente Mantenimiento Mecánico",
+      "url": "https://company.com",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Gerente de mantenimiento mecánico para el servicio correctivo y preventivo de las unidades de transporte tipo vaans y camiones entre otros",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Restaurante China Woo Brasil",
+      "position": "Auxiliar de Cocina",
+      "url": "https://company.com",
+      "startDate": "2017",
+      "endDate": "2020",
+      "summary": "Auxiliar de cocina en el restaurante China Woo en Brasil, colaborando en la preparación de platos y mantenimiento de la limpieza en la cocina.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Uber Brasil",
+      "position": "Chofer",
+      "url": "https://company.com",
+      "startDate": "2020",
+      "endDate": "2024",
+      "summary": "Motorista-Chofer de pasajeros de la plataforma Uber en Brasil, brindando servicios de transporte a pasajeros en las ciudades de Paraná y Santa Catarina, ubicadas al sur del país.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Universitario Politécnico Santiago Mariño",
+      "url": "https://http://www.unasec.com/",
+      "area": "Ingenieria Mantenimiento Mecánico - Cursando 9no. Semestre",
+      "studyType": "Presencial",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "score": "8.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  
+  "certificates": [
+    {
+      "name": "Manejo Defensivo de Vehículos",
+      "date": "2013",
+      "issuer": "Saxon Energy Services",
+      "url": "https://certificate.com"
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Nivel A speaker"
+    }
+  ],
+  
+  
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ]
+}
