@@ -7,12 +7,7 @@ import { certificates } from "@cv";
 <Section title="Cursos y Certificaciones">
   <ul>
     {
-      certificates.map(({ name, date, issuer, url }) => {
-        // const startYear = new Date(startDate).getFullYear();
-        // const endYear =
-        //   endDate != null ? new Date(endDate).getFullYear() : "Actual";
-        // const years = `${startYear} - ${endYear}`;
-
+      certificates.map(({ name, date, issuer }) => {
         return (
           <li>
             <article>
@@ -24,10 +19,6 @@ import { certificates } from "@cv";
                 <time>{date}</time>
                 <p>{issuer}</p>
               </header>
-
-              {/* <footer>
-                <p>{area}</p>
-              </footer> */}
             </article>
           </li>
         );
